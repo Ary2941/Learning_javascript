@@ -3,7 +3,7 @@ learning javascript with some projects!
 
 # Projects
 - [x] Calculator 
-- [ ] guess the number game
+- [x] guess the number game
 - [ ] Word counter
 - [ ] Palindrome verifier
 - [ ] Temperature converter
