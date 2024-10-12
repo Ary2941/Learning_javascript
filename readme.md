@@ -1,6 +1,7 @@
 # my first steps with javascript
 learning javascript with some projects!
  
+ 
 # Projects
 - [x] Calculator 
 - [x] guess the number game
