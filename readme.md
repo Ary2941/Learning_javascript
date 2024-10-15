@@ -5,8 +5,8 @@ learning javascript with some projects!
 # Projects
 - [x] Calculator 
 - [x] guess the number game
-- [ ] Word counter
-- [ ] Palindrome verifier
+- [x] Word counter
+- [x] Palindrome verifier
 - [ ] Temperature converter
 - [ ] Imperial to meter converter
 - [ ] Todo list
