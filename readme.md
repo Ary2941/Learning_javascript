@@ -7,7 +7,7 @@ learning javascript with some projects!
 - [x] guess the number game
 - [x] Word counter
 - [x] Palindrome verifier
-- [ ] Temperature converter
+- [x] Temperature converter
 - [ ] Imperial to meter converter
 - [ ] Todo list
 - [ ] Rock, papers, scizors, shoot!
